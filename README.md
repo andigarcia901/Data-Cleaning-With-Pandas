@@ -1,4 +1,4 @@
-# Data Analytics - Data Cleaning with Pandas in Action
+# Data Analytics - Data Cleaning with Pandas
 
 ## SETUP STEPS
 
